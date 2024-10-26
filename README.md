@@ -1,4 +1,4 @@
-# Amarachi Elekwa's SQL Portfolio
+# Amarachi Elekwa's Portfolio
 Hello, and thanks for stopping by! 
 This repository contains examples of SQL Queries 
 I've written for solo projects and while working through SQL, Data Engineering, and other data analytics courses. 

@@ -3,7 +3,8 @@
 # Hi, I'm Amarachi! 👋
 
 
-### 🚀 I'm a finance professional passionate about data analytics and engineering...
+### 🚀  I'm a finance professional passionate about data analytics and engineering...
+
 
 
 
@@ -41,6 +42,11 @@
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
+  </a>
+
+  <!-- R Programming -->
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/>
   </a>
   
   <!-- Google BigQuery (Fixed) -->

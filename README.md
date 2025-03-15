@@ -87,6 +87,11 @@
 
 
 ## 🔗  Connect with me:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarachi-elekwa-754107124/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/APElekwa)
+<a href="https://www.linkedin.com/in/amarachi-elekwa-754107124" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="[https://x.com/APElekwa]" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X (Twitter)" width="40" height="40"/>
+</a>
+
 

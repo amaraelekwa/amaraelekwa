@@ -8,9 +8,9 @@
 
 🧠 I'm currently learning how to apply Python to Data Science projects
 
-👯‍♀️ I'm looking to collaborate on Data Analysis and Data Science projects
+👯‍♀️ I'm looking to collaborate on **Data Analysis** and **Data Science** projects
 
-🤔 I'm looking for help with Internships
+🤔 I'm looking for help with **Internships**
 
 💬 Ask me about Finance, Business Advisory, Python, SQL, Tableau
 

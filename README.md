@@ -12,7 +12,7 @@
 
 🤔 I'm looking for help with **Internships**
 
-👨‍💻 All of my projects are available at https://amaraelekwa.github.io/amaraelekwa.github.io/index.html
+👩🏽‍💻 All of my projects are available at https://amaraelekwa.github.io/amaraelekwa.github.io/index.html
 
 💬 Ask me about Finance, Business Advisory, Python, SQL, Tableau
 

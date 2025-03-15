@@ -63,6 +63,16 @@
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/>
   </a>
+
+<!-- Google Sheets  -->
+  <a href="https://www.google.com/sheets/about/" target="_blank">
+    <img src="https://img.icons8.com/color/40/000000/google-sheets.png" alt="Google Sheets" width="40" height="40"/>
+  </a>
+
+  <!-- Microsoft Excel  -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://img.icons8.com/color/40/000000/microsoft-excel-2019.png" alt="Excel" width="40" height="40"/>
+  </a>
   
   <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank">

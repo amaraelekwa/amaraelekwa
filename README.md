@@ -2,8 +2,8 @@
 # Hi, I'm Amarachi! 👋
 
 
-## 🚀 About Me
-I'm a finance professional passionate about data analytics and engineering...
+## 🚀 I'm a finance professional passionate about data analytics and engineering...
+
 
 
 🧠 I'm currently learning how to apply Python to Data Science projects

@@ -43,9 +43,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
   </a>
   
-  <!-- Google BigQuery -->
+  <!-- Google BigQuery (Fixed) -->
   <a href="https://cloud.google.com/bigquery" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_BigQuery_Logo.png" alt="Google BigQuery" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="Google BigQuery" width="40" height="40"/>
   </a>
 
   <!-- NumPy -->
@@ -58,11 +58,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/>
   </a>
   
-  <!-- Google Sheets -->
-  <a href="https://www.google.com/sheets/about/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Google_Sheets_logo.svg" alt="Google Sheets" width="40" height="40"/>
-  </a>
-
   <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
@@ -70,10 +65,9 @@
 
   <!-- Tableau -->
   <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="80" height="20"/>
   </a>
 </p>
-
 
 
 ## 🔗  Connect with me:

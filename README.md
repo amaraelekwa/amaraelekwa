@@ -1,8 +1,8 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=amaraelekwa)
-                    # Hi, I'm Amarachi! 👋
+# Hi, I'm Amarachi! 👋
 
 
-  ### 🚀 I'm a finance professional passionate about data analytics and engineering...
+### 🚀 I'm a finance professional passionate about data analytics and engineering...
 
 
 

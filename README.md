@@ -45,6 +45,11 @@
   <a href="https://www.r-project.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/>
   </a>
+
+   <!-- Visual Studio Code (NEW) -->
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
+  </a>
   
   <!-- Google BigQuery (Fixed) -->
   <a href="https://cloud.google.com/bigquery" target="_blank">

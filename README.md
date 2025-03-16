@@ -35,6 +35,11 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="40" height="40"/>
   </a>
+
+   <!-- Google BigQuery -->
+  <a href="https://cloud.google.com/bigquery" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="Google BigQuery" width="40" height="40"/>
+  </a>
   
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
@@ -46,16 +51,16 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/>
   </a>
 
+<!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="40" height="40"/>
+  </a>
+
    <!-- Visual Studio Code (NEW) -->
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
   </a>
   
-  <!-- Google BigQuery (Fixed) -->
-  <a href="https://cloud.google.com/bigquery" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="Google BigQuery" width="40" height="40"/>
-  </a>
-
   <!-- NumPy -->
   <a href="https://numpy.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/>
